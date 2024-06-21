@@ -1,0 +1,27 @@
+vértice 1 está ligado ao 2,4 e 10
+vértice 2 está ligado ao 1,3 e 8
+vértice 3 está ligado ao 6,2 e 5
+vértice 4 está ligado ao 1,5 e 12
+vértice 5 está ligado ao 14,4 e 3
+vértice 6 está ligado ao 7, 15 e 3
+vértice 7 está ligado ao 20,8 e 6
+vértice 8 está ligado ao 7,9 e 2
+vértice 9 está ligado ao 8,10 e 16
+vértice 10 está ligado ao 9,1 e 11
+vértice 11 está ligado ao 10,12 e 17
+vértice 12 está ligado ao 4, 11 e 13
+vértice 13 está ligado ao 12,14 e 18
+vértice 14 está ligado ao 5, 13 e 15
+vértice 15 está ligado ao 6, 14 e 19
+vértice 16 está ligado ao 25, 24 e 9
+vértice 17 está ligado ao 25,21 e 11
+vértice 18 está ligado ao 21, 22 e 13
+vértice 19 está ligado ao 23, 22 e 15
+vértice 20 está ligado ao 24, 23 e 7
+vértice 21 está ligado ao 17 e 18
+vértice 22 está ligado ao 18, 19 e 14
+vértice 23 está ligado ao 20 e 19
+vértice 24 está ligado ao 20 e 16
+vértice 25 está ligado ao 16 e 17
+
+todas arestas possuem peso 2
